@@ -3,7 +3,9 @@ How are you doing today?
 
 # This is my first github work for BAIS prep class
 I assume I already had 150 before this homework. Who knows? Just for safe. 
+
 I should've play some video game instead of typing here
+
 -Fun Fact: **I never skip this class once** 
 
 # How to be a reseller
