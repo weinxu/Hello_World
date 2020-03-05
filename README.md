@@ -1,5 +1,12 @@
 # Hello_World
-This is my first github work for BAIS prep class
+# H1 This is my first github work for BAIS prep class
 
-Write a commit message that describes your changes.
+# H2 How to be a reseller
+follow all the instagram of street brand and pay attention on their drop
+such as supreme, palace, kith, nike snkr, yeezysupply
+
+**bold text** important: you need a copbot
+
+so you won't take a L 
+	*italicized text* Funny. It's a joke.
 hahahaha
