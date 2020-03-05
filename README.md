@@ -1,9 +1,9 @@
 # Hello_World
 How are you doing today?
-Fun Fact: **I never skip this class once** 
 
 # This is my first github work for BAIS prep class
-I assume I will have 150 after this homework. Who knows? I should've play some video game instead of typing.
+I assume I already had 150 before this homework. Who knows? Just for safe. I should've play some video game instead of typing here
+Fun Fact: **I never skip this class once** 
 
 # How to be a reseller
 This is real. Follow instagram of all the street brand and their drop
