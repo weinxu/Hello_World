@@ -1,5 +1,6 @@
 # Hello_World
 How are you doing today?
+Fun Fact: **I never skip this class once** 
 
 # This is my first github work for BAIS prep class
 I assume I will have 150 after this homework. Who knows? I should've play some video game instead of typing.
